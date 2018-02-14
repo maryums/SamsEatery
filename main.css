@@ -1,0 +1,194 @@
+
+body {
+	padding-top: 70px;
+	background: url(img/background04.jpg);
+	height: 100%; 
+		background-position: center center;
+		background-repeat:  no-repeat;
+		background-attachment: fixed;
+		background-size:  cover;
+		background-color: #999;
+	font-family:'Kreon',serif;
+	font-size: 1.5em;
+	color: black;
+}
+
+.rcorners1 {
+	color: white;
+    border-radius:25px;
+    background: #982121;
+    padding: 10px; 
+    width: 90%;
+	margin: auto;
+}
+
+
+.rcorners2 {
+	color: white;
+    border-radius:25px;
+    background: #982121;
+    padding: 10px; 
+    width: 200px;
+	margin: auto;
+	text-decoration: none;
+	
+}
+
+.rcorners2 a:hover {
+	text-decoration: none;
+	color: #000;
+	
+}
+
+.rcorners2 a {
+	text-decoration: none;
+	color: #ffb80e;
+	
+}
+
+.dropdown-menu {
+    height: auto;
+    max-height: 200px;
+    overflow-x: hidden;
+}
+
+html {
+	height: 100%;
+}
+
+.map {
+	padding: 10px;
+}
+
+
+.content {
+	text-align: center;
+	text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4),
+			 	 0px 8px 13px rgba(0, 0, 0, 0.1),
+				 0px 18px 23px rgba(0, 0, 0, 0.1);
+}
+
+
+
+h1 {
+	font-weight: 700;
+	font-size: 4em;
+}
+
+hr {
+	width: 300px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.navbar {
+   background-color: #982121;
+   background: #982121;
+   border-color: #982121;
+	
+}
+
+.navbar-default .navbar-brand {
+	color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #ffb80e;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+	color: black;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu>li>a {
+	color: #ffb80e;
+	text-decoration: none;
+	
+}
+.navbar-default .navbar-nav .open .dropdown-menu>li>a:hover {
+	color: black;
+	background-color: #982121;
+
+}
+
+.navbar-default .navbar-toggle {
+	color: #ffb80e;
+	text-decoration: none;
+	border-color: #ffb80e;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #ffb80e;
+}
+
+.navbar-default .navbar-toggle:hover {
+    background-color: #982121;
+}
+
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+	color: #ffb80e;
+	background-color: #982121;
+}
+.dropdown-menu {
+	background-color: #982121;
+}
+.navbar li { 
+	color: #ffb80e;
+}
+
+.navbar-brand img {
+ max-width: 30px;
+}
+
+.dropdown-menu>li>a {
+	background-color: #982121;
+}
+
+
+.col-lg-12 {
+	padding: .5em;
+}
+.col-sm-6 {
+	padding: .5em;
+}
+.col-sm-4 {
+	padding: .5em;
+}
+
+.col-md-6 {
+	padding: .5em;
+}
+
+#locations {
+	text-align: center;
+}
+
+#gallery {
+	padding-top: 100px;
+	text-align: center;
+}
+
+.thumbnail {
+	margin: auto;
+	width: 350px;
+}
+
+#menu {
+	text-align: center;
+}
+#menu img {
+	display: block;
+	margin: auto;
+}
+
+#testimonials {
+	padding: 1.4em;
+}
+
+#footer {
+    padding: 0.5em;
+    background-color: #982121;
+    color: white;
+    text-align: center;   
+}
